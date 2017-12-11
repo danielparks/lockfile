@@ -1,0 +1,5 @@
+package: github.com/danielparks/lockfile
+import:
+- package: golang.org/x/sys
+  subpackages:
+  - unix
