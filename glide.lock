@@ -1,8 +1,0 @@
-hash: e478c52d7cd15af052604df42d664b59ba2fe0673996a4833cb32872e7f3dec4
-updated: 2017-12-10T20:08:31.400445-08:00
-imports:
-- name: golang.org/x/sys
-  version: b8f5ef32195cae6470b728e8ca677f0dbed1a004
-  subpackages:
-  - unix
-testImports: []

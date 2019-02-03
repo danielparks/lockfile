@@ -1,7 +1,0 @@
-package: github.com/danielparks/lockfile
-homepage: https://github.com/danielparks/lockfile
-license: MIT
-import:
-- package: golang.org/x/sys
-  subpackages:
-  - unix
