@@ -17,6 +17,10 @@ func main() {
 }
 ```
 
+## Requirements
+
+This only works on macOS, Linux, BSD, and other UNIX-like operating systems.
+
 ## Authorship and license
 
 Written by [Daniel Parks](https://demon.horse). Licensed under the [MIT
